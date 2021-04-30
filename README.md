@@ -1,5 +1,5 @@
 # railway-management-system
-Railway Management System website built as course project in DBMS subject,B.Tech. Used SQL , html ,css and php.
+Railway Management System website built as course project in EAD AND DBMS subject.Here we used HTML,CSS,BOOTSTRAP AND JQUERY frameworks,SQL and PHP
 
 To install and run on your pc:-
 
@@ -23,3 +23,9 @@ c)Open index.htm in your browser.
 5)Finally run index.htm and enjoy!
 
 Feel free to ask queries if facing any issues in installation. 
+SUBMISSION BY:
+Sahil Bansal 19103034 Manager for the whole project
+Sidharth Rana 19103077 Assistant Manager
+Anshuman Thakur 19103036 Database Administrator
+Anmol Kansal 19103025   Backend Developer
+
