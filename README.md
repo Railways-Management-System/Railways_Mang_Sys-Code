@@ -24,8 +24,8 @@ c)Open index.htm in your browser.
 
 Feel free to ask queries if facing any issues in installation. 
 SUBMISSION BY:
-Sahil Bansal 19103034 Manager for the whole project
-Sidharth Rana 19103077 Assistant Manager
-Anshuman Thakur 19103036 Database Administrator
-Anmol Kansal 19103025   Backend Developer
+Sahil Bansal 19103034 - Manager for the whole project,
+Sidharth Rana 19103077 - Assistant Manager,
+Anshuman Thakur 19103036 - Database Administrator,
+Anmol Kansal 19103025 - Backend Developer.
 
