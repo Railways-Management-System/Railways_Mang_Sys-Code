@@ -1,5 +1,5 @@
 <html>
-<body style="background-image: url(img/img1.jpg);
+<body style="background-image: url(img/img3.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ echo "<tr><td>".$row[0]."</td><td>".$row[1]."</td><td>".$row[2]."</td><td>".$row
 
 echo "</table>";
 
-echo "<br> <a href=\"http://localhost/project/index.htm\">Go Back to Home Menu!!!</a> ";
+echo "<br> <a href=\"http://localhost/project/admin_login.php\">Go Back to admin Menu!!!</a> ";
 
 $conn->close();
 ?>
